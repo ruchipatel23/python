@@ -1,8 +1,0 @@
-s = input("Enter name:")
-s1 = s[::-1]
-
-if s==s1:
-    print("It is palindrome")
-
-else:
-    print("It is not palindrome")
